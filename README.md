@@ -1,5 +1,4 @@
-# package
-###用于Polyv 所有包的管理
+##用于Polyv 所有包的管理
 ***
 polyv-android-sdk-live 中存储的是直播使用的jar包
 ***
